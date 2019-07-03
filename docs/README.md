@@ -12,7 +12,7 @@ Further information on Sorcerer:
 * [The Infocom Gallery](https://gallery.guetech.org/sorcerer/sorcerer.html)
 * [IFWiki](http://www.ifwiki.org/index.php/Sorcerer)
 
-The following source material is available for importation. Release 22 (mac) was selected from the Zarf Sources.
+The following source material is available for importation. Release 18 was selected from the Zarf Sources.
 
 ## Historical Releases
 
