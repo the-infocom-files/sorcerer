@@ -44,6 +44,8 @@ Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for e
 [sorcerer-r13.zip]: https://eblong.com/infocom/sources/sorcerer-r13.zip
 [revision 13]: https://github.com/historicalsource/sorcerer/tree/daad2bd710bbb2a5595990b27c0eeeefb1943d9a
 
+[sorcerer-r15-s851108.z3]: https://eblong.com/infocom/gamefiles/sorcerer-r15-s851108.z3
+
 [sorcerer-r18-s860904.z3]: https://eblong.com/infocom/gamefiles/sorcerer-r18-s860904.z3
 [sorcerer-r18.zip]: https://eblong.com/infocom/sources/sorcerer-r18.zip
 [final revision]: https://github.com/historicalsource/sorcerer/tree/9be53d703b696409ce44f1b7fee27c2061f02e3f
