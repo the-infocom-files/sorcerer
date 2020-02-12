@@ -1,10 +1,10 @@
-*This page is currently under construction. Last updated July 3, 2019 by Alex Proudfoot.*
+# Sorcerer
 
-----
+## The Game
 
-Sorcerer was Infocom's 11th IF game and was first released in 1984.
+Sorcerer is a 1984 interactive fiction game written by Steve Meretzky and published by Infocom.
 
-Further information on Sorcerer:
+The following sources provide further information on Sorcerer:
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Sorcerer_(video_game))
 * [The Digital Antiquarian](https://www.filfre.net/2013/08/sorcerer/)
@@ -12,21 +12,44 @@ Further information on Sorcerer:
 * [The Infocom Gallery](https://gallery.guetech.org/sorcerer/sorcerer.html)
 * [IFWiki](http://www.ifwiki.org/index.php/Sorcerer)
 
-The following source material is available for importation. Release 18 was selected from the Zarf Sources.
+## Resources
 
-## Historical Releases
+* [Sorcerer on The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/#sorcerer)
+* [Sorcerer on Historical Source (GitHub)](https://github.com/historicalsource/sorcerer)
+* [Infocom Fact Sheet](http://pdd.if-legends.org/infocom/fact-sheet.txt)
 
-These contain the available source material.
+## Version History
 
-| Release | Serial | Story File       | Zarf Sources | Jason Scott Sources |
-| -------:|:------:|:----------------:|:------------:|:-------------------:|
-|      13 | 851021 | [r13-s851021-z3] |    [r13-zip] |       [revision-13] |
-|      18 | 860904 | [r18-s860904-z3] |    [r18-zip] |    [final-revision] |
+Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Sorcerer listed in the Infocom Fact Sheet. It also holds the source files for versions 13/851021 and 18/860904.
 
-[r13-s851021-z3]: https://eblong.com/infocom/gamefiles/sorcerer-r13-s851021.z3
-[r13-zip]: https://eblong.com/infocom/sources/sorcerer-r13.zip
-[revision-13]: https://github.com/historicalsource/sorcerer/tree/daad2bd710bbb2a5595990b27c0eeeefb1943d9a
+| Release | Serial | Story File                      | Zarf Sources       | Historical Sources |
+| -------:|:------:|:-------------------------------:|:------------------:|:------------------:|
+|      67 | 831208 |  [sorcerer-beta-r67-s831208.z3] |                  - |                  - |
+|      85 | 840106 | [sorcerer-gamma-r85-s840106.z3] |                  - |                  - |
+|       4 | 840131 |        [sorcerer-r4-s840131.z3] |                  - |                  - |
+|       6 | 840508 |        [sorcerer-r6-s840508.z3] |                  - |                  - |
+|      13 | 851021 |       [sorcerer-r13-s851021.z3] | [sorcerer-r13.zip] |      [revision 13] |
+|      15 | 851108 |       [sorcerer-r15-s851108.z3] |                  - |                  - |
+|      18 | 860904 |       [sorcerer-r18-s860904.z3] | [sorcerer-r18.zip] |   [final revision] |
 
-[r18-s860904-z3]: https://eblong.com/infocom/gamefiles/sorcerer-r18-s860904.z3
-[r18-zip]: https://eblong.com/infocom/sources/sorcerer-r18.zip
-[final-revision]: https://github.com/historicalsource/sorcerer/tree/9be53d703b696409ce44f1b7fee27c2061f02e3f
+[sorcerer-beta-r67-s831208.z3]: https://eblong.com/infocom/gamefiles/sorcerer-beta-r67-s831208.z3
+
+[sorcerer-gamma-r85-s840106.z3]: https://eblong.com/infocom/gamefiles/sorcerer-gamma-r85-s840106.z3
+
+[sorcerer-r4-s840131.z3]: https://eblong.com/infocom/gamefiles/sorcerer-r4-s840131.z3
+
+[sorcerer-r6-s840508.z3]: https://eblong.com/infocom/gamefiles/sorcerer-r6-s840508.z3
+
+[sorcerer-r13-s851021.z3]: https://eblong.com/infocom/gamefiles/sorcerer-r13-s851021.z3
+[sorcerer-r13.zip]: https://eblong.com/infocom/sources/sorcerer-r13.zip
+[revision 13]: https://github.com/historicalsource/sorcerer/tree/daad2bd710bbb2a5595990b27c0eeeefb1943d9a
+
+[sorcerer-r18-s860904.z3]: https://eblong.com/infocom/gamefiles/sorcerer-r18-s860904.z3
+[sorcerer-r18.zip]: https://eblong.com/infocom/sources/sorcerer-r18.zip
+[final revision]: https://github.com/historicalsource/sorcerer/tree/9be53d703b696409ce44f1b7fee27c2061f02e3f
+
+## Future Development
+
+Version 18/860904 has been selected as the starting point for future development.
+
+Compilation issues are recorded [here](https://github.com/the-infocom-files/sorcerer/issues/2).
