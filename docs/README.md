@@ -20,17 +20,15 @@ The following sources provide further information on Sorcerer:
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Sorcerer listed in the Infocom Fact Sheet. It also holds the source files for versions 13/851021 and 18/860904.
-
-| Release | Serial | Story File                      | Zarf Sources       | Historical Sources |
-| -------:|:------:|:-------------------------------:|:------------------:|:------------------:|
-|      67 | 831208 |  [sorcerer-beta-r67-s831208.z3] |                  - |                  - |
-|      85 | 840106 | [sorcerer-gamma-r85-s840106.z3] |                  - |                  - |
-|       4 | 840131 |        [sorcerer-r4-s840131.z3] |                  - |                  - |
-|       6 | 840508 |        [sorcerer-r6-s840508.z3] |                  - |                  - |
-|      13 | 851021 |       [sorcerer-r13-s851021.z3] | [sorcerer-r13.zip] |      [revision 13] |
-|      15 | 851108 |       [sorcerer-r15-s851108.z3] |                  - |                  - |
-|      18 | 860904 |       [sorcerer-r18-s860904.z3] | [sorcerer-r18.zip] |   [final revision] |
+| Release | Serial | Type | Story File                      | Obsessive Sources  | Historical Sources |
+| -------:|:------:|:----:|:-------------------------------:|:------------------:|:------------------:|
+|      67 | 831208 |  DEV |  [sorcerer-beta-r67-s831208.z3] |                  - |                  - |
+|      85 | 840106 |  DEV | [sorcerer-gamma-r85-s840106.z3] |                  - |                  - |
+|       4 | 840131 |  PUB |        [sorcerer-r4-s840131.z3] |                  - |                  - |
+|       6 | 840508 |  PUB |        [sorcerer-r6-s840508.z3] |                  - |                  - |
+|      13 | 851021 |  PUB |       [sorcerer-r13-s851021.z3] | [sorcerer-r13.zip] |      [revision 13] |
+|      15 | 851108 |  PUB |       [sorcerer-r15-s851108.z3] |                  - |                  - |
+|      18 | 860904 |  PUB |       [sorcerer-r18-s860904.z3] | [sorcerer-r18.zip] |   [final revision] |
 
 [sorcerer-beta-r67-s831208.z3]: https://eblong.com/infocom/gamefiles/sorcerer-beta-r67-s831208.z3
 
